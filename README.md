@@ -2,6 +2,10 @@
 
 My simple configuration used on Zed 0.231.1+
 
+<img src="preview1.jpg" width="80%">
+<img src="preview2.jpg" width="80%">
+<img src="preview3.jpg" width="80%">
+
 # Features
 
 - Minimal transparent theme
