@@ -112,7 +112,7 @@
   "buffer_font_size": 15,
   "theme": {
     "mode": "dark",
-    "light": "Transparent Ayu Light",
-    "dark": "Transparent Ayu Dark",
+    "light": "Ayu Light",
+    "dark": "Miasma Fog (Blur)",
   },
 }
